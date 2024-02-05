@@ -2,9 +2,10 @@
 <br/>
 
 - 👋 I’m  a 2nd year undergraduate pursuing Bachelor of Technology in Computer Science and Engineering
-- 👀 I’m interested in Problem Solving.
+- 👀 I’m interested in Problem Solving and Android Development.
 - 🌱 I’m currently learning Data Structure and Algortihms.
 - 👩‍💻 I’m looking to collaborate on Open Source Projects.
+- 👩‍💻 Skills: C++, Kotlin, XML, Firebase, Coroutines, Retrofit, RoomDB, MVVM Architecture and HTML.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sahil-bhagat-51b617228/)
  <br><br>
 
